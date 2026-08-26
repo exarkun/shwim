@@ -27,8 +27,8 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
 ]
 dependencies = [
-    "magic-wormhole >= 0.20.0",
-    "fowl >= 25.7.0",
+    "magic-wormhole >= 0.24.0",
+    "fowl >= 26.8.0",
 ]
 
 [project.optional-dependencies]
@@ -39,7 +39,7 @@ dev = [
     "twine",
     "sphinx",
     "dulwich",
-    "gpg",  # should use isis lovecruft's version?
+##    "gpg",  # should use isis lovecruft's version?
     "pip-tools",
     "hatch",
     "readme-renderer",
