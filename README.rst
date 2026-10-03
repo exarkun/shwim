@@ -54,3 +54,12 @@ curses etc work as expected.
 Once either side exits, the networking forwarding is done – there is no
 long-term credential sharing or any other network set preserved or
 altered on the “host” nor “guest” computers.
+
+
+Help Wanted
+------------
+
+Are you a Debian developer?
+There is a `Request To Package (RTP) from anarcat <https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1113779>`_ that they say should be straightforward.
+
+I am happy to help with any code-changes or feature-enhancements (please file a `new issue <https://github.com/magic-wormhole/shwim/issues/new/choose>`_ first).
